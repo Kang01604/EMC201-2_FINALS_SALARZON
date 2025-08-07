@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1568a315ee8264cb3ae942cb17ed63, type: 3}
+  m_Name: DAMAGE
+  m_EditorClassIdentifier: 
+  promptDescription: "Invest in \u2018Bob\u2019s Budget Bullets\u2019\u2014now 100%
+    recycled, 200% more punch!\n"
+  statType: 0
+  statBoostAmount: 0.5
+  upgradeID: 
